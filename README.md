@@ -12,16 +12,18 @@ README.md
 Learning Roadmap: Outlines the main topics and skills covered.
 Beginner Tips: Suggestions on tools, study techniques, and networking basics.
 Getting Started: Instructions on how to navigate the repository.
-projects/
 
-This folder contains hands-on projects to reinforce your learning. Each project is in its own subfolder with a README for step-by-step instructions and objectives.
+📁 projects
+
+🔹 This folder contains hands-on projects to reinforce your learning. Each project is in its own subfolder with a README for step-by-step instructions and objectives.
 Example Projects:
 01-basic-ip-addressing/: Learn IP addressing basics through interactive exercises.
 02-subnetting-basics/: Dive into subnetting and practice creating subnets.
 03-troubleshooting-tools/: Introduction to basic network troubleshooting tools like ping, traceroute, etc.
-resources/
 
-A collection of free learning resources to deepen your networking knowledge:
+📁 resources
+
+🔹A collection of free learning resources to deepen your networking knowledge:
 books.md: Recommended networking books.
 online-courses.md: Links to beginner-friendly courses and tutorials.
 cheat-sheets/: Quick-reference sheets, such as basic-network-commands.md.
