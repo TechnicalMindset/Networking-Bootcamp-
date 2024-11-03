@@ -12,17 +12,19 @@
 🗎 README.md 🗎
 
 🔹 This is your starting point! Here, you’ll find an overview of the Networking Bootcamp, its learning goals, and tips on how to get the most out of each section. It includes:
-Learning Roadmap: Outlines the main topics and skills covered.
-Beginner Tips: Suggestions on tools, study techniques, and networking basics.
-Getting Started: Instructions on how to navigate the repository.
+
+🔹 Learning Roadmap: Outlines the main topics and skills covered.
+🔹 Beginner Tips: Suggestions on tools, study techniques, and networking basics.
+🔹 Getting Started: Instructions on how to navigate the repository.
 
 📁 Projects
 
 🔹 This folder contains hands-on projects to reinforce your learning. Each project is in its own subfolder with a README for step-by-step instructions and objectives.
+
 Example Projects:
-01-basic-ip-addressing/: Learn IP addressing basics through interactive exercises.
-02-subnetting-basics/: Dive into subnetting and practice creating subnets.
-03-troubleshooting-tools/: Introduction to basic network troubleshooting tools like ping, traceroute, etc.
+🔹 01-basic-ip-addressing/: Learn IP addressing basics through interactive exercises.
+🔹 02-subnetting-basics/: Dive into subnetting and practice creating subnets.
+🔹 03-troubleshooting-tools/: Introduction to basic network troubleshooting tools like ping, traceroute, etc.
 
 📁 Resources
 
