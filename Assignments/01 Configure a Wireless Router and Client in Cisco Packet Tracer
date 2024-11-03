@@ -1,1 +1,66 @@
-Assignments/
+## 🌟 Objectives
+
+🔹 Part 1: Connect the Devices
+🔹 Part 2: Configure the Wireless Router
+🔹 Part 3: Configure IP Addressing and Test Connectivity
+
+📖 Background / Scenario
+Your friend, Natsumi, heard you're studying networking 🧑‍💻. She asked for help connecting her home to the cable TV network 📺. You need to connect devices to a home wireless router 📶, configure IP addresses, and set up a wireless LAN. Confident this will be easy, you're ready to get started! 🎉
+
+🛠️ Instructions
+🔹 Part 1: Connect the Devices
+🏡 The work area shows the layout of Natsumi’s house. You'll connect all labeled devices.
+
+1️⃣ Step 1: Connect the coaxial cables
+📡 Natsumi’s cable company provides internet and video services through a coaxial cable:
+
+Click Connections (⚡️ lightning bolt icon).
+Select the Coaxial Cable (🔵 blue zigzag).
+Connect the Cable Splitter ➡️ Coaxial1 port.
+Connect the Cable Modem ➡️ Port 0.
+Repeat to connect Coaxial2 on the splitter ➡️ Port 0 on the TV.
+Turn the TV on 📺 to check for the signal.
+
+2️⃣ Step 2: Connect the network cables
+🖥️ There are two PCs without wireless adapters, so they will use Ethernet cables.
+
+Connect the Cable Modem ➡️ Internet Port on the Home Wireless Router (using a Copper Straight-Through Cable).
+Office PC ➡️ GigabitEthernet 1 port on the router.
+Bedroom PC ➡️ GigabitEthernet 2 port on the router.
+
+🔹 Part 2: Configure the Wireless Router
+Most home routers use a Graphical User Interface (GUI) accessible from a web browser 🌐.
+
+1️⃣ Step 1: Access the home wireless router GUI
+
+Office PC > Desktop > IP Configuration
+Select DHCP for automatic configuration (192.x.x.x format).
+Note the default gateway address (the router’s IP).
+Open Web Browser 🌐 and enter the router’s IP address. Use admin/admin to log in.
+⚠️ Security Tip: Change default passwords to prevent unauthorized access 🛡️.
+
+2️⃣ Step 2: Configure basic settings
+
+Set Max Users to 10 (under Network Setup).
+Change the Admin password under the Administration tab to MyPassword1!.
+
+3️⃣ Step 3: Configure a wireless LAN
+
+Go to the Wireless tab and enable the 2.4 GHz network.
+Set Network Name (SSID) to MyHome.
+Under Wireless Security, enable WPA2 Personal and set the Passphrase to MyPassPhrase1!.
+🔹 Part 3: Configure IP Addressing and Test Connectivity
+1️⃣ Step 1: Connect the laptop to the wireless network
+
+Laptop > Desktop > PC Wireless > Connect ➡️ Select MyHome and enter the passphrase.
+Verify connection status under Link Information.
+
+2️⃣ Step 2: Test connectivity from the Office PC
+
+Open the Web Browser and enter skillsforall.srv to verify internet access.
+
+3️⃣ Step 3: Configure the Bedroom PC
+
+Set IP Configuration to DHCP and confirm the IP address.
+Web Browser > skillsforall.srv to test connectivity.
+🎉 Congratulations! You have successfully set up Natsumi's home network. All devices are connected to the internet 🌐, and Natsumi is thrilled—dinner’s on her tonight! 🍜
