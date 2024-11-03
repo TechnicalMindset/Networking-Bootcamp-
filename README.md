@@ -3,7 +3,7 @@
 
 🔹 Welcome to the Networking Bootcamp repository! This bootcamp is designed for beginners eager to dive into the world of networking with hands-on projects, clear instructions, and community support. Whether you’re setting up your first network or troubleshooting connectivity issues, this bootcamp will guide you through each step, helping you build a strong foundation in networking.
 
-📁 Repository Structure
+📁 Repository Structure 
 To make learning easy and engaging, we’ve organized the repository into intuitive folders and files, guiding you through concepts and projects step-by-step:
 
 README.md
@@ -13,7 +13,7 @@ Learning Roadmap: Outlines the main topics and skills covered.
 Beginner Tips: Suggestions on tools, study techniques, and networking basics.
 Getting Started: Instructions on how to navigate the repository.
 
-📁 projects
+📁 Projects
 
 🔹 This folder contains hands-on projects to reinforce your learning. Each project is in its own subfolder with a README for step-by-step instructions and objectives.
 Example Projects:
@@ -21,13 +21,14 @@ Example Projects:
 02-subnetting-basics/: Dive into subnetting and practice creating subnets.
 03-troubleshooting-tools/: Introduction to basic network troubleshooting tools like ping, traceroute, etc.
 
-📁 resources
+📁 Resources
 
 🔹A collection of free learning resources to deepen your networking knowledge:
 books.md: Recommended networking books.
 online-courses.md: Links to beginner-friendly courses and tutorials.
 cheat-sheets/: Quick-reference sheets, such as basic-network-commands.md.
-assignments/
+ 
+📁 Assignments
 
 Contains guided assignments, each with a specific focus, helping you build practical skills. Assignments are sequential and cover concepts like IP configuration, subnetting, and basic troubleshooting.
 Example Assignments:
