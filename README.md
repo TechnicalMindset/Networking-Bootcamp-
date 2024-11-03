@@ -3,7 +3,7 @@
 
 🔹 Welcome to the Networking Bootcamp repository! This bootcamp is designed for beginners eager to dive into the world of networking with hands-on projects, clear instructions, and community support. Whether you’re setting up your first network or troubleshooting connectivity issues, this bootcamp will guide you through each step, helping you build a strong foundation in networking.
 
-🚨  Repository Structure  🚨 
+#🚨  Repository Structure  🚨 
 
 🚨 To make learning easy and engaging, we’ve organized the repository into intuitive folders and files, guiding you through concepts and projects step-by-step:
 
