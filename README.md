@@ -7,7 +7,7 @@
 
 🚨 To make learning easy and engaging, we’ve organized the repository into intuitive folders and files, guiding you through concepts and projects step-by-step:
 
---
+---
 
 🗎 README.md 🗎
 
@@ -18,6 +18,8 @@
 🔹 Beginner Tips: Suggestions on tools, study techniques, and networking basics.
 
 🔹 Getting Started: Instructions on how to navigate the repository.
+
+---
 
 📁 Projects
 
@@ -31,12 +33,16 @@ Example Projects:
 
 🔹 03-troubleshooting-tools/: Introduction to basic network troubleshooting tools like ping, traceroute, etc.
 
+---
+
 📁 Resources
 
 🔹A collection of free learning resources to deepen your networking knowledge:
 books.md: Recommended networking books.
 online-courses.md: Links to beginner-friendly courses and tutorials.
 cheat-sheets/: Quick-reference sheets, such as basic-network-commands.md.
+
+ ---
  
 📁 Assignments
 
