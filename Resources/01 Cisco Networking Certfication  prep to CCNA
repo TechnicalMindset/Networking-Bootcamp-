@@ -1,4 +1,5 @@
 📝 Cisco Networking Certification Quiz
+
 ❓ Question 1:
 🌐 What is a characteristic of the Internet?
 
@@ -6,6 +7,8 @@ A. It is localized to specific geographic locations.
 B. It supports only wired network connections.
 C. It is not centrally governed.
 D. It is operated by the US government.
+
+
 ❓ Question 2:
 🔢 How many unique values are possible using a single binary digit?
 
@@ -13,6 +16,8 @@ A. 8
 B. 16
 C. 2
 D. 4
+
+
 ❓ Question 3:
 💾 What data representation is used when a computer or network device processes data?
 
@@ -20,6 +25,8 @@ A. Readable
 B. Binary
 C. Inferred
 D. Text
+
+
 ❓ Question 4:
 📏 What is the correct order of bandwidth measurement from smallest to largest?
 
@@ -28,12 +35,16 @@ B. Kbps, Tbps, Mbps, Gbps
 C. Kbps, Mbps, Gbps, Tbps
 D. Tbps, Mbps, Kbps, Gbps
 ❓ Question 5:
+
+
 📡 Which items are collectively referred to as network media?
 
 A. Routers and switches
 B. PCs and laptops
 C. Wires and radio waves
 D. Firewalls and servers
+
+
 ❓ Question 6:
 💻 Which two devices are considered end devices? (Choose two)
 
@@ -42,6 +53,8 @@ B. Printer
 C. Router
 D. Switch
 E. Hub
+
+
 ❓ Question 7:
 🔀 Which three devices are considered intermediate devices in a network? (Choose three)
 
@@ -51,6 +64,8 @@ C. Router
 D. Workstation
 E. Wireless access point
 F. Server
+
+
 ❓ Question 8:
 🔗 Match each device to a category:
 
@@ -60,6 +75,8 @@ Firewall –
 Smart device –
 Router –
 Switch –
+
+
 ❓ Question 9:
 🔌 What are two types of wired high-speed internet connections? (Choose two)
 
@@ -68,6 +85,8 @@ B. Satellite
 C. Cable
 D. Cellular
 E. Dial-up
+
+
 ❓ Question 10:
 📱 Which two methods connect mobile devices like tablets and smartphones to a data network? (Choose two)
 
@@ -76,6 +95,8 @@ B. WiMax
 C. Cellular communications
 D. Wired Ethernet
 E. Wi-Fi
+
+
 ❓ Question 11:
 🎧 What wireless technology would wireless headphones use to connect to a smartphone?
 
@@ -83,6 +104,8 @@ A. 3G/4G
 B. Wi-Fi
 C. Infrared
 D. Bluetooth
+
+
 ❓ Question 12:
 💳 What type of wireless technology is used when a smartphone pays at a store by proximity to the terminal?
 
@@ -90,6 +113,8 @@ A. NFC
 B. Wi-Fi
 C. 3G
 D. Bluetooth
+
+
 ❓ Question 13:
 🌐 Which methods are typically used on a mobile device to provide internet connectivity? (Choose two)
 
@@ -98,6 +123,8 @@ B. Cellular
 C. GPS
 D. Bluetooth
 E. NFC
+
+
 ❓ Question 14:
 🔗 What does the term tethering involve for mobile devices?
 
@@ -105,6 +132,8 @@ A. Connecting a mobile device to a hands-free headset
 B. Connecting a mobile device to a 4G cellular network
 C. Connecting a mobile device to another device to share a network connection
 D. Connecting a mobile device to a USB port on a computer for charging
+
+
 ❓ Question 15:
 📡 Which wireless RF band do IEEE 802.11b/g devices use?
 
@@ -112,6 +141,8 @@ A. 5 GHz
 B. 900 MHz
 C. 60 GHz
 D. 2.4 GHz
+
+
 ❓ Question 16:
 🏠 Which device is necessary to set up a home wireless network and provide internet access to multiple devices?
 
@@ -119,6 +150,8 @@ A. Patch panel
 B. Hub
 C. Switch
 D. Wireless router
+
+
 ❓ Question 17:
 📶 What technology is used to uniquely identify a WLAN network?
 
@@ -126,6 +159,8 @@ A. SSID
 B. WPA
 C. MAC address table
 D. WEP
+
+
 ❓ Question 18:
 🔌 Refer to the labeled router exhibit. Which port connects to the modem provided by the service provider?
 
@@ -133,6 +168,8 @@ A. B
 B. A
 C. D
 D. C
+
+
 ❓ Question 19:
 🔒 What feature is characteristic of MAC filtering in wireless networks?
 
@@ -140,6 +177,8 @@ A. It allows only authorized users to detect the network.
 B. It is configured on the computer rather than on the router.
 C. It encrypts data that is transmitted on a wireless network.
 D. It restricts computer access to a wireless network.
+
+
 ❓ Question 20:
 📶 What two radio frequency bands are used in home Wireless LANs? (Choose two)
 
@@ -148,8 +187,10 @@ B. 5 GHz
 C. 5 MHz
 D. 2.4 GHz
 E. 9 MHz
+
+
 📋 Answer Key and Explanations
-Answer: C - "It is not centrally governed."
+1. Answer: C - "It is not centrally governed."
 Explanation: The Internet is a global network with no single centralized authority.
 Answer: C - "2"
 Explanation: A single binary digit (bit) can represent two values: 0 or 1.
