@@ -1,315 +1,196 @@
-Cisco Networking Academy
-
-**Question 1:**
-
-What is a characteristic of the Internet?
-
-- A. It is localized to specific geographic locations.
-- B. It supports only wired network connections.
-- C. It is not centrally governed.
-- D. It is operated by the US government.
-
----
-
-**Question 2:**
-
-How many unique values are possible using a single binary digit?
-
-- A. 8
-- B. 16
-- C. 2
-- D. 4
-
----
-
-**Question 3:**
-
-What data representation is used when a computer or network device processes data?
-
-- A. Readable
-- B. Binary
-- C. Inferred
-- D. Text
-
----
-
-**Question 4:**
-
-What is the correct order of bandwidth measurement from smallest to largest?
-
-- A. Gbps, Tbps, Mbps, Kbps
-- B. Kbps, Tbps, Mbps, Gbps
-- C. Kbps, Mbps, Gbps, Tbps
-- D. Tbps, Mbps, Kbps, Gbps
-
----
-
-**Question 5:**
-
-Which items are collectively referred to as network media?
-
-- A. Routers and switches
-- B. PCs and laptops
-- C. Wires and radio waves
-- D. Firewalls and servers
-
----
-
-**Question 6:**
-
-Which two devices are considered end devices? (Choose two)
-
-- A. Laptop
-- B. Printer
-- C. Router
-- D. Switch
-- E. Hub
-
----
-
-**Question 7:**
-
-Which three devices are considered intermediate devices in a network? (Choose three)
-
-- A. Network printer
-- B. Switch
-- C. Router
-- D. Workstation
-- E. Wireless access point
-- F. Server
-
----
-
-**Question 8:**
-
-Match each device to a category:
-
-- **PC** –
-- **Printer** –
-- **Firewall** –
-- **Smart device** –
-- **Router** –
-- **Switch** –
-
----
-
-**Question 9:**
-
-What are two types of wired high-speed internet connections? (Choose two)
-
-- A. DSL
-- B. Satellite
-- C. Cable
-- D. Cellular
-- E. Dial-up
-
----
-
-**Question 10:**
-
-Which two methods connect mobile devices like tablets and smartphones to a data network? (Choose two)
-
-- A. Bluetooth
-- B. WiMax
-- C. Cellular communications
-- D. Wired Ethernet
-- E. Wi-Fi
-
----
-
-**Question 11:**
-
-What wireless technology would wireless headphones use to connect to a smartphone?
-
-- A. 3G/4G
-- B. Wi-Fi
-- C. Infrared
-- D. Bluetooth
-
----
-
-**Question 12:**
-
-What type of wireless technology is used when a smartphone pays at a store by proximity to the terminal?
-
-- A. NFC
-- B. Wi-Fi
-- C. 3G
-- D. Bluetooth
-
----
-
-**Question 13:**
-
-Which methods are typically used on a mobile device to provide internet connectivity? (Choose two)
-
-- A. Wi-Fi
-- B. Cellular
-- C. GPS
-- D. Bluetooth
-- E. NFC
-
----
-
-**Question 14:**
-
-What does the term tethering involve for mobile devices?
-
-- A. Connecting a mobile device to a hands-free headset
-- B. Connecting a mobile device to a 4G cellular network
-- C. Connecting a mobile device to another device to share a network connection
-- D. Connecting a mobile device to a USB port on a computer for charging
-
----
-
-**Question 15:**
-
-Which wireless RF band do IEEE 802.11b/g devices use?
-
-- A. 5 GHz
-- B. 900 MHz
-- C. 60 GHz
-- D. 2.4 GHz
-
----
-
-**Question 16:**
-
-Which device is necessary to set up a home wireless network and provide internet access to multiple devices?
-
-- A. Patch panel
-- B. Hub
-- C. Switch
-- D. Wireless router
-
----
-
-**Question 17:**
-
-What technology is used to uniquely identify a WLAN network?
-
-- A. SSID
-- B. WPA
-- C. MAC address table
-- D. WEP
-
----
-
-**Question 18:**
-
-Refer to the labeled router exhibit. Which port connects to the modem provided by the service provider?
-
-- A. B
-- B. A
-- C. D
-- D. C
-
----
-
-**Question 19:**
-
-What feature is characteristic of MAC filtering in wireless networks?
-
-- A. It allows only authorized users to detect the network.
-- B. It is configured on the computer rather than on the router.
-- C. It encrypts data that is transmitted on a wireless network.
-- D. It restricts computer access to a wireless network.
-
----
-
-**Question 20:**
-
-What two radio frequency bands are used in home Wireless LANs? (Choose two)
-
-- A. 900 GHz
-- B. 5 GHz
-- C. 5 MHz
-- D. 2.4 GHz
-- E. 9 MHz
-
----
-
-### Answer Key and Explanations
-
-1. **Answer:** C - "It is not centrally governed."
-    
-    **Explanation:** The Internet is a global network with no single centralized authority.
-    
-2. **Answer:** C - "2"
-    
-    **Explanation:** A single binary digit (bit) can represent two values: 0 or 1.
-    
-3. **Answer:** B - "Binary"
-    
-    **Explanation:** Computers process data in binary, the fundamental language of digital systems.
-    
-4. **Answer:** C - "Kbps, Mbps, Gbps, Tbps"
-    
-    **Explanation:** This order follows the standard measurement scale from smallest to largest.
-    
-5. **Answer:** C - "Wires and radio waves"
-    
-    **Explanation:** Network media include physical and wireless transmission paths.
-    
-6. **Answers:** A, B - "Laptop, Printer"
-    
-    **Explanation:** End devices include devices directly used by users, like laptops and printers.
-    
-7. **Answers:** B, C, E - "Switch, Router, Wireless access point"
-    
-    **Explanation:** Intermediate devices connect end devices within a network.
-    
-8. **Matches:**
-    - PC – End device
-    - Printer – End device
-    - Firewall – Intermediary device
-    - Smart device – End device
-    - Router – Intermediary device
-    - Switch – Intermediary device
-9. **Answers:** A, C - "DSL, Cable"
-    
-    **Explanation:** DSL and Cable are common wired high-speed internet connections.
-    
-10. **Answers:** C, E - "Cellular communications, Wi-Fi"
-    
-    **Explanation:** Cellular and Wi-Fi are the primary network connection methods for mobile devices.
-    
-11. **Answer:** D - "Bluetooth"
-    
-    **Explanation:** Bluetooth is a short-range wireless technology for connecting devices like headphones.
-    
-12. **Answer:** A - "NFC"
-    
-    **Explanation:** NFC enables close-range wireless transactions, like paying at a terminal.
-    
-13. **Answers:** A, B - "Wi-Fi, Cellular"
-    
-    **Explanation:** Wi-Fi and cellular are commonly used for mobile internet connectivity.
-    
-14. **Answer:** C - "Connecting a mobile device to another device to share a network connection"
-    
-    **Explanation:** Tethering shares an internet connection with other devices.
-    
-15. **Answer:** D - "2.4 GHz"
-    
-    **Explanation:** IEEE 802.11b/g operates in the 2.4 GHz frequency band.
-    
-16. **Answer:** D - "Wireless router"
-    
-    **Explanation:** A wireless router allows devices to connect wirelessly and access the internet.
-    
-17. **Answer:** A - "SSID"
-    
-    **Explanation:** SSID is the unique identifier for a WLAN.
-    
-18. **Answer:** D - "C"
-    
-    **Explanation:** The "Internet" port connects the router to the modem for internet access.
-    
-19. **Answer:** D - "It restricts computer access to a wireless network."
-    
-    **Explanation:** MAC filtering controls which devices can access the network based on their MAC address.
-    
-20. **Answers:** B, D - "5 GHz, 2.4 GHz"
-    
-    **Explanation:** These are the two main frequency bands used in home wireless networks.
+📝 Cisco Networking Certification Quiz
+❓ Question 1:
+🌐 What is a characteristic of the Internet?
+
+A. It is localized to specific geographic locations.
+B. It supports only wired network connections.
+C. It is not centrally governed.
+D. It is operated by the US government.
+❓ Question 2:
+🔢 How many unique values are possible using a single binary digit?
+
+A. 8
+B. 16
+C. 2
+D. 4
+❓ Question 3:
+💾 What data representation is used when a computer or network device processes data?
+
+A. Readable
+B. Binary
+C. Inferred
+D. Text
+❓ Question 4:
+📏 What is the correct order of bandwidth measurement from smallest to largest?
+
+A. Gbps, Tbps, Mbps, Kbps
+B. Kbps, Tbps, Mbps, Gbps
+C. Kbps, Mbps, Gbps, Tbps
+D. Tbps, Mbps, Kbps, Gbps
+❓ Question 5:
+📡 Which items are collectively referred to as network media?
+
+A. Routers and switches
+B. PCs and laptops
+C. Wires and radio waves
+D. Firewalls and servers
+❓ Question 6:
+💻 Which two devices are considered end devices? (Choose two)
+
+A. Laptop
+B. Printer
+C. Router
+D. Switch
+E. Hub
+❓ Question 7:
+🔀 Which three devices are considered intermediate devices in a network? (Choose three)
+
+A. Network printer
+B. Switch
+C. Router
+D. Workstation
+E. Wireless access point
+F. Server
+❓ Question 8:
+🔗 Match each device to a category:
+
+PC –
+Printer –
+Firewall –
+Smart device –
+Router –
+Switch –
+❓ Question 9:
+🔌 What are two types of wired high-speed internet connections? (Choose two)
+
+A. DSL
+B. Satellite
+C. Cable
+D. Cellular
+E. Dial-up
+❓ Question 10:
+📱 Which two methods connect mobile devices like tablets and smartphones to a data network? (Choose two)
+
+A. Bluetooth
+B. WiMax
+C. Cellular communications
+D. Wired Ethernet
+E. Wi-Fi
+❓ Question 11:
+🎧 What wireless technology would wireless headphones use to connect to a smartphone?
+
+A. 3G/4G
+B. Wi-Fi
+C. Infrared
+D. Bluetooth
+❓ Question 12:
+💳 What type of wireless technology is used when a smartphone pays at a store by proximity to the terminal?
+
+A. NFC
+B. Wi-Fi
+C. 3G
+D. Bluetooth
+❓ Question 13:
+🌐 Which methods are typically used on a mobile device to provide internet connectivity? (Choose two)
+
+A. Wi-Fi
+B. Cellular
+C. GPS
+D. Bluetooth
+E. NFC
+❓ Question 14:
+🔗 What does the term tethering involve for mobile devices?
+
+A. Connecting a mobile device to a hands-free headset
+B. Connecting a mobile device to a 4G cellular network
+C. Connecting a mobile device to another device to share a network connection
+D. Connecting a mobile device to a USB port on a computer for charging
+❓ Question 15:
+📡 Which wireless RF band do IEEE 802.11b/g devices use?
+
+A. 5 GHz
+B. 900 MHz
+C. 60 GHz
+D. 2.4 GHz
+❓ Question 16:
+🏠 Which device is necessary to set up a home wireless network and provide internet access to multiple devices?
+
+A. Patch panel
+B. Hub
+C. Switch
+D. Wireless router
+❓ Question 17:
+📶 What technology is used to uniquely identify a WLAN network?
+
+A. SSID
+B. WPA
+C. MAC address table
+D. WEP
+❓ Question 18:
+🔌 Refer to the labeled router exhibit. Which port connects to the modem provided by the service provider?
+
+A. B
+B. A
+C. D
+D. C
+❓ Question 19:
+🔒 What feature is characteristic of MAC filtering in wireless networks?
+
+A. It allows only authorized users to detect the network.
+B. It is configured on the computer rather than on the router.
+C. It encrypts data that is transmitted on a wireless network.
+D. It restricts computer access to a wireless network.
+❓ Question 20:
+📶 What two radio frequency bands are used in home Wireless LANs? (Choose two)
+
+A. 900 GHz
+B. 5 GHz
+C. 5 MHz
+D. 2.4 GHz
+E. 9 MHz
+📋 Answer Key and Explanations
+Answer: C - "It is not centrally governed."
+Explanation: The Internet is a global network with no single centralized authority.
+Answer: C - "2"
+Explanation: A single binary digit (bit) can represent two values: 0 or 1.
+Answer: B - "Binary"
+Explanation: Computers process data in binary, the fundamental language of digital systems.
+Answer: C - "Kbps, Mbps, Gbps, Tbps"
+Explanation: This order follows the standard measurement scale from smallest to largest.
+Answer: C - "Wires and radio waves"
+Explanation: Network media include physical and wireless transmission paths.
+Answers: A, B - "Laptop, Printer"
+Explanation: End devices include devices directly used by users, like laptops and printers.
+Answers: B, C, E - "Switch, Router, Wireless access point"
+Explanation: Intermediate devices connect end devices within a network.
+Matches:
+PC – End device
+Printer – End device
+Firewall – Intermediary device
+Smart device – End device
+Router – Intermediary device
+Switch – Intermediary device
+Answers: A, C - "DSL, Cable"
+Explanation: DSL and Cable are common wired high-speed internet connections.
+Answers: C, E - "Cellular communications, Wi-Fi"
+Explanation: Cellular and Wi-Fi are the primary network connection methods for mobile devices.
+Answer: D - "Bluetooth"
+Explanation: Bluetooth is a short-range wireless technology for connecting devices like headphones.
+Answer: A - "NFC"
+Explanation: NFC enables close-range wireless transactions, like paying at a terminal.
+Answers: A, B - "Wi-Fi, Cellular"
+Explanation: Wi-Fi and cellular are commonly used for mobile internet connectivity.
+Answer: C - "Connecting a mobile device to another device to share a network connection"
+Explanation: Tethering shares an internet connection with other devices.
+Answer: D - "2.4 GHz"
+Explanation: IEEE 802.11b/g operates in the 2.4 GHz frequency band.
+Answer: D - "Wireless router"
+Explanation: A wireless router allows devices to connect wirelessly and access the internet.
+Answer: A - "SSID"
+Explanation: SSID is the unique identifier for a WLAN.
+Answer: D - "C"
+Explanation: The "Internet" port connects the router to the modem for internet access.
+Answer: D - "It restricts computer access to a wireless network."
+Explanation: MAC filtering controls which devices can access the network based on their MAC address.
+Answers: B, D - "5 GHz, 2.4 GHz"
+Explanation: These are the two main frequency bands used in home wireless networks.
