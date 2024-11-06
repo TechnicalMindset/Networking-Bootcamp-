@@ -8,13 +8,15 @@
 </head>
 <body>
     <div class="quiz-container">
-        <h1>Networking Principles Quiz</h1>
+        <h1>📝 Networking Principles Quiz 📝</h1>
         <div id="question-container">
-            <p id="question">Question will appear here</p>
-            <div id="answer-buttons" class="btn-container"></div>
-            <div id="feedback" class="feedback"></div>
+            <!-- Questions and answers will be dynamically inserted here -->
         </div>
-        <button id="next-btn" class="next-btn">Next Question</button>
+        <button id="next-button" onclick="nextQuestion()" disabled>Next Question</button>
+        <div id="score-container" style="display:none;">
+            <h2>Your Score: <span id="score"></span></h2>
+            <button onclick="restartQuiz()">Retake Quiz</button>
+        </div>
     </div>
 
     <script src="script.js"></script>
